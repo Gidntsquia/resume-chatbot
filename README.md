@@ -8,7 +8,7 @@
 2. **Measurable**: Success if it exists
 3. **Achievable**: Uses skills from the AI-powered apps CodeWithMosh course, so it is within reach for me.
 4. **Relevant**: Relevant to my job search + upskilling
-5. **Time-bound**: 2 weeks -- by 7/13
+5. **Time-bound**: 2 weeks -- by 8/13
 
 TODO:
 
